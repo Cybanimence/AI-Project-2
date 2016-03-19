@@ -1,0 +1,18 @@
+\BOOKMARK [0][-]{chapter.1}{Understanding The Problem}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Application: Standard Hill Climbing}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Implementation}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Testing}{chapter.2}% 4
+\BOOKMARK [0][-]{chapter.3}{Application: Hill Climbing Random Restart}{}% 5
+\BOOKMARK [1][-]{section.3.1}{Implementation}{chapter.3}% 6
+\BOOKMARK [1][-]{section.3.2}{Testing}{chapter.3}% 7
+\BOOKMARK [0][-]{chapter.4}{Application: Simulated Annealing}{}% 8
+\BOOKMARK [1][-]{section.4.1}{Prerequisite}{chapter.4}% 9
+\BOOKMARK [1][-]{section.4.2}{Implementation}{chapter.4}% 10
+\BOOKMARK [1][-]{section.4.3}{Testing}{chapter.4}% 11
+\BOOKMARK [0][-]{chapter.5}{Analysis and Conclusion}{}% 12
+\BOOKMARK [1][-]{section.5.1}{Analysis}{chapter.5}% 13
+\BOOKMARK [2][-]{subsection.5.1.1}{Standard Hill Climbing}{section.5.1}% 14
+\BOOKMARK [2][-]{subsection.5.1.2}{Hill Climbing With Random Restarts}{section.5.1}% 15
+\BOOKMARK [2][-]{subsection.5.1.3}{Simulated Annealing}{section.5.1}% 16
+\BOOKMARK [2][-]{subsection.5.1.4}{Possible Error To Consider}{section.5.1}% 17
+\BOOKMARK [1][-]{section.5.2}{Conclusion}{chapter.5}% 18
